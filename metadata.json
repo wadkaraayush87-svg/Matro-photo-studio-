@@ -1,0 +1,9 @@
+{
+  "name": "Metro Photo Studio",
+  "description": "Premium photography studio in Maharashtra specializing in weddings, baby shoots, and cinematic moments. Book your professional consultation for just ₹9.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
